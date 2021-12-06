@@ -1,5 +1,5 @@
 # face_mask_detection
-Detect mask face using external USB camera.
+***Detect mask face using external USB camera.***
 
 This is used to detect a person's face for face mask.
 
