@@ -4,7 +4,7 @@ Detect mask face using external USB camera.
 This is used to detect a person's face for face mask.
 
 # First Step
-please enter the code folder and run the requirements.sh file first to get all required dependencies installed on the Raspberry Pi before deployment.
+please enter the code folder and run the requirements.sh file first to get all required dependencies installed on the Raspberry Pi before deployment.\n
 $bash requirements.sh
 
 # Second Step
